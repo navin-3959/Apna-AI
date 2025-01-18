@@ -15,7 +15,7 @@ function createchatbox(html, classes) {
 }
 
 
-const Api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyCAHgmuZKMJrKb7qFJCL9q2pq-5GJVvGJY"
+const Api_url = "....."
 let user = {
     message: null,
     file: {
